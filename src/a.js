@@ -1,0 +1,1 @@
+module.exports = 'helloworld' //node 提出的
